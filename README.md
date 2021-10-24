@@ -1,3 +1,3 @@
-# prueba
+#README
 
-testing
+Revisando y testeando comandos de GIT. 
